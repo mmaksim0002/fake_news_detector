@@ -1,1 +1,3 @@
-# fake_news_detector
+# fake_news_detector  
+
+Детектор фейковых новостей
